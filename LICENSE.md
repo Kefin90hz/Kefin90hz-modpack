@@ -3,7 +3,7 @@ WEEM 1.0 (costum license)
 WEEM adalah license costum yg dibuat gweh (lu gk bakal tawu siapa gw)
 WEEM Artinya WM, yang artinya juga WaterMark di bahasa inggris, yg di indoin jadi tanda air, atau penanda air, lupa gw njing
 
-License ini di gunail waktu lu bikin mod yg gk ada guna nya atau apalah
+License ini di gunain waktu lu bikin mod yg gk ada guna nya atau apalah
 ya kalo lu gabut pasang ajah ini
 
 COPYRIGHT:
